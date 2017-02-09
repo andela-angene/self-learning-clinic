@@ -8,11 +8,11 @@
 3. Create an aritGeo function that checks if the array passed as an argument is an arithmetic or geometric progression. - http://labs.andela.com/labs/ari-geo-lab
 
 
-The solution to each problem can found in the appropriate folder. 
+The solution to each problem be can found in the appropriate folder. 
 Jasmine was used for testing, to install jasmine, run:
 
 `npm install -g jasmine`
 
-To test, navigate to the problem root folder and run:
+To test, navigate to the root folder of a problem and run:
 
 `jasmine`
