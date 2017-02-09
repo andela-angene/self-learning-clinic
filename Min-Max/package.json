@@ -2,7 +2,7 @@
   "name": "find-min-max.js",
   "version": "1.0.0",
   "description": "return Min-Max Numbers in a List",
-  "main": "index.js",
+  "main": "find-min-max.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
