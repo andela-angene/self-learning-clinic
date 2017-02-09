@@ -1,5 +1,5 @@
 'use strict'
-var findMinMax = require('../min-max');
+var findMinMax = require('../findMinMax');
 
 (function() {
   'use strict';
